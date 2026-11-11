@@ -1,0 +1,3 @@
+Pon aqui tu archivo de audio con el nombre exacto:  dulce_azar.ogg
+Formato: OGG Vorbis, MONO (si es estereo se oye igual de fuerte en todo lado y no baja con la distancia).
+Sin ese archivo el boton "Dulce azar" no suena (el juego solo avisa en el log, no se cierra).

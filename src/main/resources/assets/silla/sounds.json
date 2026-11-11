@@ -1,0 +1,10 @@
+{
+  "bus_dulce_azar": {
+    "sounds": [
+      {
+        "name": "silla:dulce_azar",
+        "stream": true
+      }
+    ]
+  }
+}

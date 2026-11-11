@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "silla",
+  "version": "${version}",
+  "name": "Nutria Mods",
+  "description": "Silla de ruedas, bicicletas, autobus volador con musica, tablet con voz de Loquendo y letreros con /nutria.",
+  "authors": [
+    "Dedsafio fan"
+  ],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/silla/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.silla.SillaMod"
+    ],
+    "client": [
+      "com.silla.SillaClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
